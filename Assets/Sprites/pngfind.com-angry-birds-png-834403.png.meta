@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 42b8236e6a14e44ebba072a05155e427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5766618399231094293
+    second: pngfind.com-angry-birds-png-834403_0
+  - first:
+      213: -9143651295074615198
+    second: pngfind.com-angry-birds-png-834403_1
+  - first:
+      213: 5878253388618698767
+    second: pngfind.com-angry-birds-png-834403_2
+  - first:
+      213: 7359278074391635704
+    second: pngfind.com-angry-birds-png-834403_3
+  - first:
+      213: -7652564294497751797
+    second: pngfind.com-angry-birds-png-834403_4
+  - first:
+      213: 3932936194276770588
+    second: pngfind.com-angry-birds-png-834403_5
+  - first:
+      213: 4547758739350882298
+    second: pngfind.com-angry-birds-png-834403_6
+  - first:
+      213: -8608836596104077422
+    second: pngfind.com-angry-birds-png-834403_7
+  - first:
+      213: 5905870324069199435
+    second: pngfind.com-angry-birds-png-834403_8
+  - first:
+      213: -2719874558571657101
+    second: pngfind.com-angry-birds-png-834403_9
+  - first:
+      213: -7815867902878086945
+    second: pngfind.com-angry-birds-png-834403_10
+  - first:
+      213: 285642339560075532
+    second: pngfind.com-angry-birds-png-834403_11
+  - first:
+      213: 42957392258376671
+    second: pngfind.com-angry-birds-png-834403_12
+  - first:
+      213: -3213564670581214703
+    second: pngfind.com-angry-birds-png-834403_13
+  - first:
+      213: -2125114958464212634
+    second: pngfind.com-angry-birds-png-834403_14
+  - first:
+      213: 1387675585524665221
+    second: pngfind.com-angry-birds-png-834403_15
+  - first:
+      213: 5508690537105768872
+    second: pngfind.com-angry-birds-png-834403_16
+  - first:
+      213: 893717057275887426
+    second: pngfind.com-angry-birds-png-834403_17
+  - first:
+      213: 1182214467848268229
+    second: pngfind.com-angry-birds-png-834403_18
+  - first:
+      213: 3556466385412935213
+    second: pngfind.com-angry-birds-png-834403_19
+  - first:
+      213: 729428808182313715
+    second: pngfind.com-angry-birds-png-834403_20
+  - first:
+      213: 1009061192244542349
+    second: pngfind.com-angry-birds-png-834403_21
+  - first:
+      213: 6609696619437670735
+    second: pngfind.com-angry-birds-png-834403_22
+  - first:
+      213: -5976380009083944763
+    second: pngfind.com-angry-birds-png-834403_23
+  - first:
+      213: -3310547545567050604
+    second: pngfind.com-angry-birds-png-834403_24
+  - first:
+      213: 861262577442339310
+    second: pngfind.com-angry-birds-png-834403_25
+  - first:
+      213: -3667133897845355565
+    second: pngfind.com-angry-birds-png-834403_26
+  - first:
+      213: -3557767928761828540
+    second: pngfind.com-angry-birds-png-834403_27
+  - first:
+      213: 266509178284545450
+    second: pngfind.com-angry-birds-png-834403_28
+  - first:
+      213: -56968935031795048
+    second: pngfind.com-angry-birds-png-834403_29
+  - first:
+      213: -2283846506099323924
+    second: pngfind.com-angry-birds-png-834403_30
+  - first:
+      213: 6610296377090480541
+    second: pngfind.com-angry-birds-png-834403_31
+  - first:
+      213: 4133280671149869310
+    second: pngfind.com-angry-birds-png-834403_32
+  - first:
+      213: 3357917539375875382
+    second: pngfind.com-angry-birds-png-834403_33
+  - first:
+      213: -6451971567883722133
+    second: pngfind.com-angry-birds-png-834403_34
+  - first:
+      213: 5587826355522285767
+    second: pngfind.com-angry-birds-png-834403_35
+  - first:
+      213: 5108177900203033232
+    second: pngfind.com-angry-birds-png-834403_36
+  - first:
+      213: -6219187761941609230
+    second: pngfind.com-angry-birds-png-834403_37
+  - first:
+      213: 9130719851175388658
+    second: pngfind.com-angry-birds-png-834403_38
+  - first:
+      213: -5254829142276428691
+    second: pngfind.com-angry-birds-png-834403_39
+  - first:
+      213: -2165739022995448933
+    second: pngfind.com-angry-birds-png-834403_40
+  - first:
+      213: -2213223715939871589
+    second: pngfind.com-angry-birds-png-834403_41
+  - first:
+      213: -5979848655007830139
+    second: pngfind.com-angry-birds-png-834403_42
+  - first:
+      213: 998536420749689283
+    second: pngfind.com-angry-birds-png-834403_43
+  - first:
+      213: -7586995631070383438
+    second: pngfind.com-angry-birds-png-834403_44
+  - first:
+      213: -3169263895440168565
+    second: pngfind.com-angry-birds-png-834403_45
+  - first:
+      213: -5877449842217915586
+    second: pngfind.com-angry-birds-png-834403_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 468
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ea66991e4270050800000000000000
+      internalID: 5766618399231094293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 468
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260890f97993b1180800000000000000
+      internalID: -9143651295074615198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 468
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f009a580050c39150800000000000000
+      internalID: 5878253388618698767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 476
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62f63ea68612660800000000000000
+      internalID: 7359278074391635704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 475
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0daf95b151acc590800000000000000
+      internalID: -7652564294497751797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 483
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13c42091a8949630800000000000000
+      internalID: 3932936194276770588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af700377a72ec1f30800000000000000
+      internalID: 4547758739350882298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 365
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f55d73ab4478880800000000000000
+      internalID: -8608836596104077422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 390
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e6aa3e4cdd5f150800000000000000
+      internalID: 5905870324069199435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 390
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c6bedf70114ad0800000000000000
+      internalID: -2719874558571657101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 390
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd803957d85788390800000000000000
+      internalID: -7815867902878086945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 417
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c013a46c13ec6f300800000000000000
+      internalID: 285642339560075532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 382
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a90a458d989000800000000000000
+      internalID: 42957392258376671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112f24355ff1763d0800000000000000
+      internalID: -3213564670581214703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 262
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612fd164331282e0800000000000000
+      internalID: -2125114958464212634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 296
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b0ea2c793024310800000000000000
+      internalID: 1387675585524665221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 281
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ceb17bdcc27c40800000000000000
+      internalID: 5508690537105768872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 279
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff2a0bdee176c00800000000000000
+      internalID: 893717057275887426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 279
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c96c6c7bc1186010800000000000000
+      internalID: 1182214467848268229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 323
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec726a55b1b5130800000000000000
+      internalID: 3556466385412935213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_20
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 288
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b4a8e2a37f1a00800000000000000
+      internalID: 729428808182313715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b3e50eec7e00e00800000000000000
+      internalID: 1009061192244542349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 202
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41cea24e0c5abb50800000000000000
+      internalID: 6609696619437670735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 186
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c04ec3cb02af0da0800000000000000
+      internalID: -5976380009083944763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_24
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 188
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4944f6e1c829e02d0800000000000000
+      internalID: -3310547545567050604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 186
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b9c240c1d3fb00800000000000000
+      internalID: 861262577442339310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 230
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db42233629bb1dc0800000000000000
+      internalID: -3667133897845355565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bbfdc2be440aec0800000000000000
+      internalID: -3557767928761828540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 195
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa518058fa4d2b300800000000000000
+      internalID: 266509178284545450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 81
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89292303e0b953ff0800000000000000
+      internalID: -56968935031795048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 92
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebce6af3b52e40e0800000000000000
+      internalID: -2283846506099323924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_31
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 95
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d999788388d7cbb50800000000000000
+      internalID: 6610296377090480541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 132
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef840e01fdc5c5930800000000000000
+      internalID: 4133280671149869310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 133
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6358d870638b99e20800000000000000
+      internalID: 3357917539375875382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 137
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ee530b0ef576a0800000000000000
+      internalID: -6451971567883722133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b87bf672fb8d40800000000000000
+      internalID: 5587826355522285767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 36
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924a176cb4e3e640800000000000000
+      internalID: 5108177900203033232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f483026ea101b9a0800000000000000
+      internalID: -6219187761941609230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5aae8f355d6be70800000000000000
+      internalID: 9130719851175388658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_39
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c2e338cb81317b0800000000000000
+      internalID: -5254829142276428691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_40
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 80
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b972a45dfb1f1e0800000000000000
+      internalID: -2165739022995448933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b941feaa1cc0941e0800000000000000
+      internalID: -2213223715939871589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 14
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f29a3b45f430da0800000000000000
+      internalID: -5979848655007830139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 21
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1431e85938bdd00800000000000000
+      internalID: 998536420749689283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_44
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 38
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2fb91dba395b690800000000000000
+      internalID: -7586995631070383438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_45
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 38
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8961d057438404d0800000000000000
+      internalID: -3169263895440168565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-angry-birds-png-834403_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bec61328a1f6ea0800000000000000
+      internalID: -5877449842217915586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
